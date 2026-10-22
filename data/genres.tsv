@@ -1,7 +1,11 @@
-Dubstep	21633	Trap 5236 (24%), DrumandBass 2015 (9%), Drumstep 1427 (7%), MelodicDubstep 1389 (6%)
-Trap	17365	Dubstep 5236 (30%), FutureBass 1970 (11%), DrumandBass 1452 (8%), BassHouse 1431 (8%)
-DrumandBass	9875	Neurofunk 2288 (23%), Dubstep 2015 (20%), Drumstep 1537 (16%), Trap 1452 (15%)
-BassHouse	6433	Trap 1431 (22%), Dubstep 1245 (19%), Breaks 645 (10%), DrumandBass 621 (10%)
+
+> genres
+> node src/genres.js
+
+Dubstep	21638	Trap 5237 (24%), DrumandBass 2016 (9%), Drumstep 1427 (7%), MelodicDubstep 1389 (6%)
+Trap	17366	Dubstep 5237 (30%), FutureBass 1970 (11%), DrumandBass 1452 (8%), BassHouse 1431 (8%)
+DrumandBass	9877	Neurofunk 2288 (23%), Dubstep 2016 (20%), Drumstep 1537 (16%), Trap 1452 (15%)
+BassHouse	6434	Trap 1431 (22%), Dubstep 1245 (19%), Breaks 645 (10%), DrumandBass 621 (10%)
 FutureBass	5147	Trap 1970 (38%), Dubstep 775 (15%), Midtempo 492 (10%), BassHouse 347 (7%)
 ElectroHouse	3890	Dubstep 1302 (33%), Trap 894 (23%), DrumandBass 551 (14%), Drumstep 424 (11%)
 Drumstep	3514	DrumandBass 1537 (44%), Dubstep 1427 (41%), Trap 952 (27%), ElectroHouse 424 (12%)
@@ -14,7 +18,7 @@ Neurofunk	2296	DrumandBass 2288 (100%), Drumstep 357 (16%), Dubstep 324 (14%), T
 Garage	1532	Dubstep 489 (32%), UKGarage 440 (29%), Trap 322 (21%), FutureGarage 281 (18%)
 MelodicDubstep	1444	Dubstep 1389 (96%), Trap 327 (23%), FutureBass 202 (14%), Drumstep 189 (13%)
 Moombahton	1442	Trap 696 (48%), Dubstep 249 (17%), Carnival 182 (13%), BassHouse 156 (11%)
-Techno	1381	Dubstep 382 (28%), Trap 332 (24%), Midtempo 231 (17%), DrumandBass 190 (14%)
+Techno	1383	Dubstep 382 (28%), Trap 332 (24%), Midtempo 231 (17%), DrumandBass 190 (14%)
 Riddim	1373	Dubstep 1373 (100%), Trap 192 (14%), DrumandBass 106 (8%), Drumstep 61 (4%)
 Carnival	1199	Trap 845 (70%), Dubstep 531 (44%), BassHouse 195 (16%), Moombahton 182 (15%)
 Liquid	1162	DrumandBass 1159 (100%), Neurofunk 157 (14%), Drumstep 112 (10%), Dubstep 106 (9%)
@@ -46,7 +50,7 @@ Ambient	217	other 90 (41%), Dubstep 63 (29%), Trap 57 (26%), DrumandBass 52 (24%
 TechStep	204	DrumandBass 203 (100%), Neurofunk 82 (40%), Liquid 58 (28%), Drumstep 29 (14%)
 Grime	178	Dubstep 89 (50%), Trap 52 (29%), DeepDubstep 33 (19%), DrumandBass 29 (16%)
 Electronic Rock	176	Dubstep 70 (40%), DrumandBass 44 (25%), Trap 34 (19%), Midtempo 25 (14%)
-DeepDrumandBass	171	DrumandBass 171 (100%), Dubstep 52 (30%), Neurofunk 36 (21%), JumpUp 31 (18%)
+DeepDrumandBass	172	DrumandBass 172 (100%), Dubstep 53 (31%), Neurofunk 36 (21%), JumpUp 31 (18%)
 Deathstep	151	Dubstep 150 (99%), Riddim 30 (20%), Trap 27 (18%), DrumandBass 23 (15%)
 Hardwave	118	Trap 109 (92%), Dubstep 57 (48%), DrumandBass 34 (29%), House 21 (18%)
 Acoustic	109	Trap 27 (25%), other 26 (24%), Dubstep 18 (17%), House 15 (14%)
