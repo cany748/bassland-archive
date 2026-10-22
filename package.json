@@ -1,0 +1,16 @@
+{
+  "name": "bassland-archive",
+  "private": true,
+  "type": "module",
+  "description": "Архив стен VK-пабликов BASSLAND: сбор без аккаунта и разбор метаданных релизов",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "collect": "node src/collect.js",
+    "parse": "node src/parse.js",
+    "genres": "node src/genres.js",
+    "stats": "node src/stats.js"
+  },
+  "dependencies": {
+    "playwright-core": "1.56.1"
+  }
+}

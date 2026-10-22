@@ -1,0 +1,4 @@
+node_modules/
+data/*.partial.jsonl
+data/state.json
+*.log
