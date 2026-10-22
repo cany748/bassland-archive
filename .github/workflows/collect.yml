@@ -28,7 +28,10 @@ jobs:
       - run: npm ci
 
       # Google Chrome на ubuntu-latest предустановлен — playwright-core берёт его через channel "chrome"
+      # собранное по остальным пабликам коммитим, даже если один сорвался; прогон всё равно краснеет
       - name: Сбор новых постов
+        id: collect
+        continue-on-error: true
         run: npm run collect
 
       - name: Разбор, жанры, статистика
@@ -48,3 +51,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(data): daily update $(date -u +%F)"
           git push
+
+      - name: Сбор прошёл не полностью
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "::error::Сбор части пабликов сорвался — см. шаг «Сбор новых постов»"
+          exit 1

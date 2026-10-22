@@ -104,7 +104,7 @@ const collectGroup = async (name) => {
   const { updating } = state[name];
   saveState();
 
-  const { getWall } = createWallClient({ domain: group.domain, log });
+  const { getWall } = createWallClient({ log });
   log(`${group.title}: ${updating ? "дочитываю новые посты" : `сбор с offset ${state[name].offset}`}, в архиве ${posts.size}`);
 
   while (true) {
@@ -134,5 +134,10 @@ const collectGroup = async (name) => {
 const names = process.argv.slice(2);
 for (const name of names.length > 0 ? names : Object.keys(GROUPS)) {
   if (!GROUPS[name]) throw new Error(`неизвестный паблик «${name}», есть: ${Object.keys(GROUPS).join(", ")}`);
-  await collectGroup(name);
+  // сбой одного паблика не должен терять уже собранное по остальным: недособранный паблик
+  // следующий запуск дочитает заново, а код выхода сообщит о проблеме
+  await collectGroup(name).catch((error) => {
+    log(`${GROUPS[name].title}: сбор прерван — ${error.message}`);
+    process.exitCode = 1;
+  });
 }
