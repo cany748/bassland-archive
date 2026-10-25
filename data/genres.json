@@ -1,10 +1,10 @@
 {
  "canon": {
-  "TechHouse": "TechHouse",
-  "Tech House": "TechHouse",
   "Dubstep": "Dubstep",
   "dubstep": "Dubstep",
   "DubStep": "Dubstep",
+  "TechHouse": "TechHouse",
+  "Tech House": "TechHouse",
   "HardDance": "HardDance",
   "Hard Dance": "HardDance",
   "ElectroHouse": "ElectroHouse",
@@ -386,7 +386,7 @@
  "frequency": [
   [
    "Dubstep",
-   21649
+   21650
   ],
   [
    "Trap",
@@ -20560,42 +20560,42 @@
    [
     "Trap",
     5238,
-    0.2419511293824195
+    0.24193995381062355
    ],
    [
     "DrumandBass",
     2016,
-    0.09312208416093122
+    0.09311778290993071
    ],
    [
     "Drumstep",
     1427,
-    0.06591528477065915
+    0.06591224018475751
    ],
    [
     "MelodicDubstep",
     1389,
-    0.0641600073906416
+    0.06415704387990762
    ],
    [
     "Riddim",
     1373,
-    0.06342094323063421
+    0.06341801385681294
    ],
    [
     "ElectroHouse",
     1302,
-    0.060141346020601415
+    0.06013856812933025
    ],
    [
     "BassHouse",
     1246,
-    0.05755462146057554
+    0.05755196304849885
    ],
    [
     "Breaks",
     906,
-    0.0418495080604185
+    0.04184757505773672
    ]
   ],
   "HardDance": [
