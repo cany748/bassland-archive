@@ -1,10 +1,13 @@
 {
  "canon": {
-  "Trap": "Trap",
-  "trap": "Trap",
+  "BassHouse": "BassHouse",
+  "Bass House": "BassHouse",
+  "Basshouse": "BassHouse",
   "Dubstep": "Dubstep",
   "dubstep": "Dubstep",
   "DubStep": "Dubstep",
+  "Trap": "Trap",
+  "trap": "Trap",
   "TechHouse": "TechHouse",
   "Tech House": "TechHouse",
   "HardDance": "HardDance",
@@ -34,9 +37,6 @@
   "Jump-Up": "JumpUp",
   "House": "House",
   "house": "House",
-  "BassHouse": "BassHouse",
-  "Bass House": "BassHouse",
-  "Basshouse": "BassHouse",
   "DeepDrumandBass": "DeepDrumandBass",
   "DeepDrumandbass": "DeepDrumandBass",
   "Neurofunk": "Neurofunk",
@@ -386,7 +386,7 @@
  "frequency": [
   [
    "Dubstep",
-   21652
+   21653
   ],
   [
    "Trap",
@@ -398,7 +398,7 @@
   ],
   [
    "BassHouse",
-   6436
+   6438
   ],
   [
    "FutureBass",
@@ -20560,42 +20560,42 @@
    [
     "Trap",
     5239,
-    0.24196379087382228
+    0.2419526162656445
    ],
    [
     "DrumandBass",
     2016,
-    0.09310918159985221
+    0.09310488154066411
    ],
    [
     "Drumstep",
     1427,
-    0.06590615185664142
+    0.06590310811434905
    ],
    [
     "MelodicDubstep",
     1389,
-    0.06415111767966007
+    0.06414815499007066
    ],
    [
     "Riddim",
     1373,
-    0.0634121559209311
+    0.06340922735879555
    ],
    [
     "ElectroHouse",
     1302,
-    0.06013301311657122
+    0.060130235995012236
    ],
    [
     "BassHouse",
     1246,
-    0.05754664696101977
+    0.057543989285549345
    ],
    [
     "Breaks",
     906,
-    0.04184370958802882
+    0.041841777120953216
    ]
   ],
   "Trap": [
@@ -21022,42 +21022,42 @@
    [
     "Trap",
     1432,
-    0.22249844623990056
+    0.22242932587760175
    ],
    [
     "Dubstep",
     1246,
-    0.19359850839030454
+    0.19353836595215906
    ],
    [
     "Breaks",
     646,
-    0.10037290242386576
+    0.1003417210313762
    ],
    [
     "DrumandBass",
     621,
-    0.09648850217526414
+    0.09645852749301025
    ],
    [
     "ElectroHouse",
     392,
-    0.060907395898073334
+    0.06088847468157813
    ],
    [
     "FutureBass",
     347,
-    0.05391547545059043
+    0.053898726312519414
    ],
    [
     "House",
     346,
-    0.053760099440646365
+    0.05374339857098478
    ],
    [
     "Midtempo",
     297,
-    0.046146674953387194
+    0.04613233923578751
    ]
   ],
   "House": [
