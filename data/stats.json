@@ -41,20 +41,20 @@
   }
  },
  "lite": {
-  "posts": 9491,
-  "with_audio": 8156,
-  "media": 8673,
+  "posts": 9492,
+  "with_audio": 8157,
+  "media": 8674,
+  "m_date": 6137,
+  "m_year": 6137,
+  "m_genre": 7545,
+  "m_any_meta": 7624,
+  "multi_date": 66,
+  "multi_genre": 3505,
+  "f_self_released": 864,
   "m_label": 5620,
-  "m_date": 6136,
-  "m_year": 6136,
-  "m_genre": 7544,
   "m_headline": 6908,
-  "m_any_meta": 7623,
-  "multi_genre": 3504,
-  "f_self_released": 863,
   "genre_flow": 306,
   "with_playlist": 593,
-  "multi_date": 65,
   "f_free_download": 1353,
   "f_private_download": 23,
   "no_media": 818,
@@ -62,7 +62,7 @@
   "repost": 2999,
   "genre_untagged": 509,
   "f_limited_release": 1,
-  "audios": 22512,
+  "audios": 22515,
   "playlists": 593,
   "years": {
    "2011": 148,
@@ -80,7 +80,7 @@
    "2023": 827,
    "2024": 727,
    "2025": 1036,
-   "2026": 571
+   "2026": 572
   }
  },
  "native": {
