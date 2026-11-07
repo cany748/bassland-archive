@@ -1,5 +1,11 @@
 {
  "canon": {
+  "DrumandBass": "DrumandBass",
+  "DrumAndBass": "DrumandBass",
+  "Drumandbass": "DrumandBass",
+  "Drum and Bass": "DrumandBass",
+  "drumandbass": "DrumandBass",
+  "Drum And Bass": "DrumandBass",
   "Dubstep": "Dubstep",
   "dubstep": "Dubstep",
   "DubStep": "Dubstep",
@@ -19,12 +25,6 @@
   "BassHouse": "BassHouse",
   "Bass House": "BassHouse",
   "Basshouse": "BassHouse",
-  "DrumandBass": "DrumandBass",
-  "DrumAndBass": "DrumandBass",
-  "Drumandbass": "DrumandBass",
-  "Drum and Bass": "DrumandBass",
-  "drumandbass": "DrumandBass",
-  "Drum And Bass": "DrumandBass",
   "other": "other",
   "Other": "other",
   "TechHouse": "TechHouse",
@@ -394,7 +394,7 @@
   ],
   [
    "DrumandBass",
-   9905
+   9906
   ],
   [
    "BassHouse",
@@ -21121,42 +21121,42 @@
    [
     "Neurofunk",
     2290,
-    0.23119636547198386
+    0.231173026448617
    ],
    [
     "Dubstep",
     2018,
-    0.20373548712771328
+    0.20371492025035332
    ],
    [
     "Drumstep",
     1541,
-    0.15557799091367996
+    0.15556228548354534
    ],
    [
     "Trap",
     1453,
-    0.14669358909641594
+    0.14667878053704825
    ],
    [
     "Liquid",
     1159,
-    0.11701161029782937
+    0.11699979810216031
    ],
    [
     "JumpUp",
     1105,
-    0.11155981827359919
+    0.1115485564304462
    ],
    [
     "BassHouse",
     622,
-    0.06279656739020696
+    0.06279022814455885
    ],
    [
     "Breaks",
     586,
-    0.05916203937405351
+    0.059156067030082776
    ]
   ],
   "Neurofunk": [
