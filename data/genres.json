@@ -1,14 +1,14 @@
 {
  "canon": {
+  "Dubstep": "Dubstep",
+  "dubstep": "Dubstep",
+  "DubStep": "Dubstep",
   "DrumandBass": "DrumandBass",
   "DrumAndBass": "DrumandBass",
   "Drumandbass": "DrumandBass",
   "Drum and Bass": "DrumandBass",
   "drumandbass": "DrumandBass",
   "Drum And Bass": "DrumandBass",
-  "Dubstep": "Dubstep",
-  "dubstep": "Dubstep",
-  "DubStep": "Dubstep",
   "Trap": "Trap",
   "trap": "Trap",
   "Breaks": "Breaks",
@@ -386,7 +386,7 @@
  "frequency": [
   [
    "Dubstep",
-   21715
+   21717
   ],
   [
    "Trap",
@@ -20659,42 +20659,42 @@
    [
     "Trap",
     5249,
-    0.24172231176606032
+    0.2417000506515633
    ],
    [
     "DrumandBass",
     2018,
-    0.09293115358047432
+    0.09292259520191555
    ],
    [
     "Drumstep",
     1432,
-    0.0659451991710799
+    0.06593912603029885
    ],
    [
     "MelodicDubstep",
     1390,
-    0.0640110522680175
+    0.06400515725008059
    ],
    [
     "Riddim",
     1376,
-    0.06336633663366337
+    0.06336050099000783
    ],
    [
     "ElectroHouse",
     1305,
-    0.06009670734515312
+    0.06009117281392457
    ],
    [
     "BassHouse",
     1247,
-    0.05742574257425743
+    0.057420454022194596
    ],
    [
     "Breaks",
     912,
-    0.041998618466497814
+    0.04199475065616798
    ]
   ],
   "Trap": [
