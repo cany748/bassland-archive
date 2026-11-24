@@ -2,8 +2,8 @@
 > genres
 > node src/genres.js
 
-Dubstep	21791	Trap 5259 (24%), DrumandBass 2023 (9%), Drumstep 1434 (7%), MelodicDubstep 1393 (6%)
-Trap	17399	Dubstep 5259 (30%), FutureBass 1971 (11%), DrumandBass 1456 (8%), BassHouse 1438 (8%)
+Dubstep	21792	Trap 5260 (24%), DrumandBass 2023 (9%), Drumstep 1434 (7%), MelodicDubstep 1393 (6%)
+Trap	17400	Dubstep 5260 (30%), FutureBass 1971 (11%), DrumandBass 1456 (8%), BassHouse 1438 (8%)
 DrumandBass	9922	Neurofunk 2291 (23%), Dubstep 2023 (20%), Drumstep 1544 (16%), Trap 1456 (15%)
 BassHouse	6464	Trap 1438 (22%), Dubstep 1254 (19%), Breaks 649 (10%), DrumandBass 623 (10%)
 FutureBass	5148	Trap 1971 (38%), Dubstep 775 (15%), Midtempo 492 (10%), BassHouse 347 (7%)
@@ -41,12 +41,12 @@ Jungle	388	DrumandBass 376 (97%), Dubstep 87 (22%), Trap 80 (21%), Breaks 61 (16
 CarnivalBass	383	Trap 210 (55%), Moombahton 83 (22%), ElectroHouse 70 (18%), BassHouse 67 (17%)
 Hip-Hop	360	Trap 240 (67%), other 50 (14%), Dubstep 48 (13%), DrumandBass 37 (10%)
 NuDisco	331	Midtempo 89 (27%), Trap 74 (22%), FutureBass 60 (18%), House 59 (18%)
-Synthwave	312	Midtempo 93 (30%), Dubstep 66 (21%), other 59 (19%), Trap 57 (18%)
+Synthwave	313	Midtempo 93 (30%), Dubstep 66 (21%), other 59 (19%), Trap 57 (18%)
 Chillstep	295	Dubstep 287 (97%), Trap 62 (21%), other 60 (20%), Garage 56 (19%)
 ElectroSoul	258	Trap 86 (33%), GlitchHop 53 (21%), other 52 (20%), Dubstep 43 (17%)
 Juke	250	Trap 100 (40%), DrumandBass 71 (28%), Breaks 53 (21%), Dubstep 53 (21%)
 Trance	242	Dubstep 84 (35%), Trap 69 (29%), House 51 (21%), DrumandBass 50 (21%)
-Ambient	217	other 90 (41%), Dubstep 63 (29%), Trap 57 (26%), DrumandBass 52 (24%)
+Ambient	218	other 90 (41%), Dubstep 63 (29%), Trap 57 (26%), DrumandBass 52 (24%)
 TechStep	204	DrumandBass 203 (100%), Neurofunk 82 (40%), Liquid 58 (28%), Drumstep 29 (14%)
 Electronic Rock	180	Dubstep 74 (41%), DrumandBass 45 (25%), Trap 38 (21%), Midtempo 26 (14%)
 Grime	179	Dubstep 90 (50%), Trap 52 (29%), DeepDubstep 33 (18%), DrumandBass 29 (16%)
