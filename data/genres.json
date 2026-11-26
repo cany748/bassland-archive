@@ -1,23 +1,30 @@
 {
  "canon": {
-  "Techno": "Techno",
-  "techno": "Techno",
-  "Garage": "Garage",
-  "garage": "Garage",
-  "UKGarage": "UKGarage",
-  "UK Garage": "UKGarage",
   "DrumandBass": "DrumandBass",
   "DrumAndBass": "DrumandBass",
   "Drumandbass": "DrumandBass",
   "Drum and Bass": "DrumandBass",
   "drumandbass": "DrumandBass",
   "Drum And Bass": "DrumandBass",
-  "Neurofunk": "Neurofunk",
+  "Trap": "Trap",
+  "trap": "Trap",
   "Dubstep": "Dubstep",
   "dubstep": "Dubstep",
   "DubStep": "Dubstep",
-  "Trap": "Trap",
-  "trap": "Trap",
+  "Electronic": "Electronic",
+  "Neurofunk": "Neurofunk",
+  "TechHouse": "TechHouse",
+  "Tech House": "TechHouse",
+  "JumpUp": "JumpUp",
+  "Jump-Up": "JumpUp",
+  "Breaks": "Breaks",
+  "breaks": "Breaks",
+  "Techno": "Techno",
+  "techno": "Techno",
+  "Garage": "Garage",
+  "garage": "Garage",
+  "UKGarage": "UKGarage",
+  "UK Garage": "UKGarage",
   "ElectroHouse": "ElectroHouse",
   "Electro House": "ElectroHouse",
   "Electrohouse": "ElectroHouse",
@@ -36,16 +43,10 @@
   "DrumStep": "Drumstep",
   "MelodicDubstep": "MelodicDubstep",
   "melodicdubstep": "MelodicDubstep",
-  "TechHouse": "TechHouse",
-  "Tech House": "TechHouse",
-  "Breaks": "Breaks",
-  "breaks": "Breaks",
   "Midtempo": "Midtempo",
   "midtempo": "Midtempo",
   "MIdtempo": "Midtempo",
   "MidTempo": "Midtempo",
-  "JumpUp": "JumpUp",
-  "Jump-Up": "JumpUp",
   "Electronic Rock": "Electronic Rock",
   "Liquid": "Liquid",
   "LIquid": "Liquid",
@@ -85,7 +86,6 @@
   "DeepDrumandBass": "DeepDrumandBass",
   "DeepDrumandbass": "DeepDrumandBass",
   "Jungle": "Jungle",
-  "Electronic": "Electronic",
   "Orchestral": "Orchestral",
   "FutureGrage": "FutureGarage",
   "FutureBeats": "FutureBeats",
@@ -387,15 +387,15 @@
  "frequency": [
   [
    "Dubstep",
-   21796
+   21801
   ],
   [
    "Trap",
-   17403
+   17404
   ],
   [
    "DrumandBass",
-   9923
+   9927
   ],
   [
    "BassHouse",
@@ -419,7 +419,7 @@
   ],
   [
    "Breaks",
-   2911
+   2912
   ],
   [
    "House",
@@ -431,7 +431,7 @@
   ],
   [
    "Neurofunk",
-   2300
+   2301
   ],
   [
    "GlitchHop",
@@ -467,7 +467,7 @@
   ],
   [
    "JumpUp",
-   1109
+   1110
   ],
   [
    "ChillTrap",
@@ -479,7 +479,7 @@
   ],
   [
    "TechHouse",
-   912
+   913
   ],
   [
    "FutureBeats",
@@ -595,7 +595,7 @@
   ],
   [
    "Electronic",
-   95
+   96
   ],
   [
    "Progressive House",
@@ -1618,17 +1618,17 @@
   [
    "Dubstep",
    "Trap",
-   5263
+   5264
   ],
   [
    "DrumandBass",
    "Neurofunk",
-   2292
+   2293
   ],
   [
    "DrumandBass",
    "Dubstep",
-   2023
+   2024
   ],
   [
    "FutureBass",
@@ -1643,7 +1643,7 @@
   [
    "DrumandBass",
    "Trap",
-   1456
+   1457
   ],
   [
    "BassHouse",
@@ -1683,7 +1683,7 @@
   [
    "DrumandBass",
    "JumpUp",
-   1109
+   1110
   ],
   [
    "ChillTrap",
@@ -3636,6 +3636,11 @@
    33
   ],
   [
+   "Electronic",
+   "Trap",
+   32
+  ],
+  [
    "ElectroHouse",
    "Hardcore",
    32
@@ -3694,11 +3699,6 @@
    "FutureBass",
    "Juke",
    32
-  ],
-  [
-   "Electronic",
-   "Trap",
-   31
   ],
   [
    "DrumandBass",
@@ -4566,6 +4566,11 @@
    18
   ],
   [
+   "Dubstep",
+   "Electronic",
+   17
+  ],
+  [
    "ElectroHouse",
    "Electronic Rock",
    17
@@ -4658,11 +4663,6 @@
   [
    "DeepDubstep",
    "House",
-   16
-  ],
-  [
-   "Dubstep",
-   "Electronic",
    16
   ],
   [
@@ -5376,6 +5376,11 @@
    11
   ],
   [
+   "DrumandBass",
+   "Electronic",
+   10
+  ],
+  [
    "BassHouse",
    "JungleTerror",
    10
@@ -5523,11 +5528,6 @@
   [
    "Baile Funk",
    "Techno",
-   9
-  ],
-  [
-   "DrumandBass",
-   "Electronic",
    9
   ],
   [
@@ -20601,6 +20601,258 @@
   ]
  ],
  "companions": {
+  "DrumandBass": [
+   [
+    "Neurofunk",
+    2293,
+    0.23098619925455827
+   ],
+   [
+    "Dubstep",
+    2024,
+    0.20388838521204794
+   ],
+   [
+    "Drumstep",
+    1544,
+    0.155535408481918
+   ],
+   [
+    "Trap",
+    1457,
+    0.14677143144958193
+   ],
+   [
+    "Liquid",
+    1161,
+    0.11695376246600181
+   ],
+   [
+    "JumpUp",
+    1110,
+    0.11181625868842551
+   ],
+   [
+    "BassHouse",
+    623,
+    0.06275813438098116
+   ],
+   [
+    "Breaks",
+    587,
+    0.05913166112622142
+   ]
+  ],
+  "Dubstep": [
+   [
+    "Trap",
+    5264,
+    0.24145681390761892
+   ],
+   [
+    "DrumandBass",
+    2024,
+    0.09283977799183524
+   ],
+   [
+    "Drumstep",
+    1434,
+    0.06577679922939314
+   ],
+   [
+    "MelodicDubstep",
+    1393,
+    0.06389615155268107
+   ],
+   [
+    "Riddim",
+    1379,
+    0.06325397917526719
+   ],
+   [
+    "ElectroHouse",
+    1310,
+    0.060088986743727354
+   ],
+   [
+    "BassHouse",
+    1256,
+    0.057612036145130954
+   ],
+   [
+    "Breaks",
+    917,
+    0.042062290720609144
+   ]
+  ],
+  "Electronic": [
+   [
+    "other",
+    56,
+    0.5833333333333334
+   ],
+   [
+    "Trap",
+    32,
+    0.3333333333333333
+   ],
+   [
+    "Dubstep",
+    17,
+    0.17708333333333334
+   ],
+   [
+    "House",
+    15,
+    0.15625
+   ],
+   [
+    "ChillTrap",
+    13,
+    0.13541666666666666
+   ],
+   [
+    "Midtempo",
+    12,
+    0.125
+   ],
+   [
+    "Breaks",
+    11,
+    0.11458333333333333
+   ],
+   [
+    "DrumandBass",
+    10,
+    0.10416666666666667
+   ]
+  ],
+  "Trap": [
+   [
+    "Dubstep",
+    5264,
+    0.30245920478051025
+   ],
+   [
+    "FutureBass",
+    1972,
+    0.11330728568145254
+   ],
+   [
+    "DrumandBass",
+    1457,
+    0.08371638703746265
+   ],
+   [
+    "BassHouse",
+    1440,
+    0.08273960009193289
+   ],
+   [
+    "ChillTrap",
+    1013,
+    0.058205010342450014
+   ],
+   [
+    "Breaks",
+    961,
+    0.05521719145024132
+   ],
+   [
+    "Drumstep",
+    954,
+    0.05481498506090554
+   ],
+   [
+    "Midtempo",
+    927,
+    0.0532636175591818
+   ]
+  ],
+  "Neurofunk": [
+   [
+    "DrumandBass",
+    2293,
+    0.9965232507605389
+   ],
+   [
+    "Drumstep",
+    357,
+    0.15514993481095177
+   ],
+   [
+    "Dubstep",
+    324,
+    0.1408083441981747
+   ],
+   [
+    "Trap",
+    192,
+    0.08344198174706649
+   ],
+   [
+    "Liquid",
+    157,
+    0.06823120382442416
+   ],
+   [
+    "JumpUp",
+    139,
+    0.06040851803563668
+   ],
+   [
+    "Breaks",
+    117,
+    0.05084745762711865
+   ],
+   [
+    "FutureBeats",
+    115,
+    0.04997827031725337
+   ]
+  ],
+  "JumpUp": [
+   [
+    "DrumandBass",
+    1110,
+    1
+   ],
+   [
+    "Dubstep",
+    346,
+    0.3117117117117117
+   ],
+   [
+    "Drumstep",
+    201,
+    0.1810810810810811
+   ],
+   [
+    "Trap",
+    191,
+    0.17207207207207206
+   ],
+   [
+    "Neurofunk",
+    139,
+    0.12522522522522522
+   ],
+   [
+    "BassHouse",
+    125,
+    0.11261261261261261
+   ],
+   [
+    "Breaks",
+    69,
+    0.062162162162162166
+   ],
+   [
+    "Liquid",
+    62,
+    0.055855855855855854
+   ]
+  ],
   "Garage": [
    [
     "Dubstep",
@@ -20683,174 +20935,6 @@
     "FutureGarage",
     32,
     0.05673758865248227
-   ]
-  ],
-  "DrumandBass": [
-   [
-    "Neurofunk",
-    2292,
-    0.23097853471732338
-   ],
-   [
-    "Dubstep",
-    2023,
-    0.20386979744029024
-   ],
-   [
-    "Drumstep",
-    1544,
-    0.15559810541166985
-   ],
-   [
-    "Trap",
-    1456,
-    0.14672981961100473
-   ],
-   [
-    "Liquid",
-    1161,
-    0.11700090698377506
-   ],
-   [
-    "JumpUp",
-    1109,
-    0.11176055628338204
-   ],
-   [
-    "BassHouse",
-    623,
-    0.06278343242970875
-   ],
-   [
-    "Breaks",
-    587,
-    0.05915549732943666
-   ]
-  ],
-  "Neurofunk": [
-   [
-    "DrumandBass",
-    2292,
-    0.9965217391304347
-   ],
-   [
-    "Drumstep",
-    357,
-    0.15521739130434783
-   ],
-   [
-    "Dubstep",
-    324,
-    0.1408695652173913
-   ],
-   [
-    "Trap",
-    192,
-    0.08347826086956522
-   ],
-   [
-    "Liquid",
-    157,
-    0.06826086956521739
-   ],
-   [
-    "JumpUp",
-    139,
-    0.06043478260869565
-   ],
-   [
-    "Breaks",
-    117,
-    0.050869565217391305
-   ],
-   [
-    "FutureBeats",
-    115,
-    0.05
-   ]
-  ],
-  "Dubstep": [
-   [
-    "Trap",
-    5263,
-    0.24146632409616445
-   ],
-   [
-    "DrumandBass",
-    2023,
-    0.09281519544870619
-   ],
-   [
-    "Drumstep",
-    1434,
-    0.06579188841989356
-   ],
-   [
-    "MelodicDubstep",
-    1393,
-    0.06391080932281153
-   ],
-   [
-    "Riddim",
-    1379,
-    0.06326848963112498
-   ],
-   [
-    "ElectroHouse",
-    1310,
-    0.06010277115066985
-   ],
-   [
-    "BassHouse",
-    1256,
-    0.05762525233987888
-   ],
-   [
-    "Breaks",
-    917,
-    0.042071939805468896
-   ]
-  ],
-  "Trap": [
-   [
-    "Dubstep",
-    5263,
-    0.30241912313968855
-   ],
-   [
-    "FutureBass",
-    1972,
-    0.11331379647187266
-   ],
-   [
-    "DrumandBass",
-    1456,
-    0.08366373613744757
-   ],
-   [
-    "BassHouse",
-    1440,
-    0.08274435442165144
-   ],
-   [
-    "ChillTrap",
-    1013,
-    0.058208354881342295
-   ],
-   [
-    "Breaks",
-    961,
-    0.05522036430500488
-   ],
-   [
-    "Drumstep",
-    954,
-    0.05481813480434408
-   ],
-   [
-    "Midtempo",
-    927,
-    0.05326667815893812
    ]
   ],
   "BassHouse": [
@@ -21235,42 +21319,42 @@
    [
     "Trap",
     961,
-    0.33012710408794227
+    0.33001373626373626
    ],
    [
     "Dubstep",
     917,
-    0.3150120233596702
+    0.31490384615384615
    ],
    [
     "BassHouse",
     650,
-    0.22329096530401923
+    0.22321428571428573
    ],
    [
     "DrumandBass",
     587,
-    0.20164891789762968
+    0.20157967032967034
    ],
    [
     "ElectroHouse",
     344,
-    0.1181724493301271
+    0.11813186813186813
    ],
    [
     "House",
     266,
-    0.0913775334936448
+    0.09134615384615384
    ],
    [
     "other",
     245,
-    0.08416351769151495
+    0.08413461538461539
    ],
    [
     "Midtempo",
     239,
-    0.08210237031947784
+    0.08207417582417582
    ]
   ],
   "Electronic Rock": [
@@ -21313,48 +21397,6 @@
     "MelodicDubstep",
     13,
     0.07222222222222222
-   ]
-  ],
-  "JumpUp": [
-   [
-    "DrumandBass",
-    1109,
-    1
-   ],
-   [
-    "Dubstep",
-    346,
-    0.31199278629395855
-   ],
-   [
-    "Drumstep",
-    201,
-    0.1812443642921551
-   ],
-   [
-    "Trap",
-    191,
-    0.17222723174030657
-   ],
-   [
-    "Neurofunk",
-    139,
-    0.12533814247069433
-   ],
-   [
-    "BassHouse",
-    125,
-    0.1127141568981064
-   ],
-   [
-    "Breaks",
-    69,
-    0.062218214607754736
-   ],
-   [
-    "Liquid",
-    62,
-    0.05590622182146077
    ]
   ],
   "Midtempo": [
@@ -22265,42 +22307,42 @@
    [
     "BassHouse",
     146,
-    0.1600877192982456
+    0.15991237677984665
    ],
    [
     "Dubstep",
     138,
-    0.1513157894736842
+    0.1511500547645126
    ],
    [
     "Trap",
     132,
-    0.14473684210526316
+    0.14457831325301204
    ],
    [
     "House",
     123,
-    0.13486842105263158
+    0.13472070098576122
    ],
    [
     "DrumandBass",
     89,
-    0.09758771929824561
+    0.09748083242059145
    ],
    [
     "Techno",
     57,
-    0.0625
+    0.0624315443592552
    ],
    [
     "Breaks",
     48,
-    0.05263157894736842
+    0.05257393209200438
    ],
    [
     "Garage",
     46,
-    0.05043859649122807
+    0.050383351588170866
    ]
   ],
   "DeepDrumandBass": [
@@ -22679,48 +22721,6 @@
     "DrumandBass",
     34,
     0.1152542372881356
-   ]
-  ],
-  "Electronic": [
-   [
-    "other",
-    56,
-    0.5894736842105263
-   ],
-   [
-    "Trap",
-    31,
-    0.3263157894736842
-   ],
-   [
-    "Dubstep",
-    16,
-    0.16842105263157894
-   ],
-   [
-    "House",
-    15,
-    0.15789473684210525
-   ],
-   [
-    "ChillTrap",
-    13,
-    0.1368421052631579
-   ],
-   [
-    "Midtempo",
-    12,
-    0.12631578947368421
-   ],
-   [
-    "Breaks",
-    11,
-    0.11578947368421053
-   ],
-   [
-    "DrumandBass",
-    9,
-    0.09473684210526316
    ]
   ],
   "Breakcore": [
